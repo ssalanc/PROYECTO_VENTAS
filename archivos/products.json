@@ -1,0 +1,5 @@
+[
+  { "id": 1, "descripcion": "manzana", "precio": 0.5, "stock": 15 },
+  { "id": 2, "descripcion": "pera", "precio": 0.4, "stock": 10 },
+  { "id": 1, "descripcion": "limon", "precio": 0.3, "stock": 10 }
+]

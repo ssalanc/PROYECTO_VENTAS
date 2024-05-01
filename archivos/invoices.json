@@ -1,0 +1,61 @@
+[
+  {
+    "factura": 1,
+    "Fecha": "2024-04-22",
+    "cliente": "Daniel Vera",
+    "subtotal": 3006.0,
+    "descuento": 1.0,
+    "iva": 1.08,
+    "total": 3006.08,
+    "detalle": [
+      { "producto": "Coca Cola", "precio": 1.5, "cantidad": 2000 },
+      { "producto": "tomates", "precio": 2.0, "cantidad": 3 }
+    ]
+  },
+  {
+    "factura": 2,
+    "Fecha": "2024-04-22",
+    "cliente": "Dayanna Vera",
+    "subtotal": 42.0,
+    "descuento": 3.4000000000000004,
+    "iva": 3.67,
+    "total": 42.27,
+    "detalle": [
+      { "producto": "mortadela", "precio": 2.5, "cantidad": 4 },
+      { "producto": "aceite", "precio": 2.0, "cantidad": 10 }
+    ]
+  },
+  {
+    "factura": 3,
+    "Fecha": "2024-04-22",
+    "cliente": "Daniel Vera",
+    "subtotal": 13.200000000000001,
+    "descuento": 1.6,
+    "iva": 1.73,
+    "total": 13.330000000000002,
+    "detalle": [
+      { "producto": "Coca Cola", "precio": 1.5, "cantidad": 8 },
+      { "producto": "pera", "precio": 0.4, "cantidad": 2 }
+    ]
+  },
+  {
+    "factura": 4,
+    "Fecha": "2024-05-01",
+    "cliente": "Susana Salan",
+    "subtotal": 5.0,
+    "descuento": 0.5,
+    "iva": 0.54,
+    "total": 5.04,
+    "detalle": [{ "producto": "manzana", "precio": 0.5, "cantidad": 10 }]
+  },
+  {
+    "factura": 5,
+    "Fecha": "2024-05-01",
+    "cliente": "Lulu Lopez",
+    "subtotal": 1.2,
+    "descuento": 0.12,
+    "iva": 0.13,
+    "total": 1.21,
+    "detalle": [{ "producto": "pera", "precio": 0.4, "cantidad": 3 }]
+  }
+]
